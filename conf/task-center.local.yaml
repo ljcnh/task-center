@@ -1,0 +1,11 @@
+redis:
+  addr: ""
+zeebe:
+  broker: "localhost:26500"
+  clientId: "zeebe-client"
+mysql:
+  addr: ""
+  port: ""
+  user: ""
+  password: "Ljwudao5!"
+ 
